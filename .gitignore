@@ -1,0 +1,24 @@
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local data (donor personal information!)
+data/
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

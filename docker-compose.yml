@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8501:8501"
+    env_file: .env          # EMAIL, APP_PASSWORD (optional: APP_URL, ADMIN_PIN, COUNTRY_CODE)
+    volumes:
+      - ./data:/app/data    # keeps your database between restarts
+    restart: unless-stopped
