@@ -1,5 +1,5 @@
-<img width="1767" height="970" alt="Screenshot 2026-11-24 181518" src="https://github.com/user-attachments/assets/ca151f47-4ee9-4e56-9b65-f7ba6c92d3f4" />
-# 🩸 Blood Donor Matcher
+
+ 🩸 Blood Donor Matcher
 
 An emergency blood-donor coordination app. When a patient needs blood, it finds the nearest compatible donors,
 emails them a one-tap **Yes / No** link, and helps the coordinator confirm donors until every unit is covered.
@@ -12,7 +12,7 @@ Built with **Streamlit + SQLite + Gmail (SMTP/IMAP) + Docker**.
 ---
 
 ## Features
-
+<img width="1767" height="970" alt="Screenshot 2026-11-24 181518" src="https://github.com/user-attachments/assets/ca151f47-4ee9-4e56-9b65-f7ba6c92d3f4" />
 **Requests**
 - Preview matched donors (match score, untick anyone) before sending alerts
 - Multiple **units needed**; request stays *Partial* until enough donors are confirmed
@@ -127,4 +127,4 @@ Set `COUNTRY_CODE` in `.env` for your country's phone prefix. Phone validation e
 - Distances are straight-line between town centres, not road distance.
 
 ## License
-MIT, see [LICENSE](LICENSE). Replace `YOUR NAME` in the license before publishing.
+MIT, see [LICENSE](LICENSE). Replace `SUJAN NAIK` in the license before publishing.
