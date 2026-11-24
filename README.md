@@ -1,3 +1,4 @@
+<img width="1767" height="970" alt="Screenshot 2026-11-24 181518" src="https://github.com/user-attachments/assets/ca151f47-4ee9-4e56-9b65-f7ba6c92d3f4" />
 # 🩸 Blood Donor Matcher
 
 An emergency blood-donor coordination app. When a patient needs blood, it finds the nearest compatible donors,
