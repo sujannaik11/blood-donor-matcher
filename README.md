@@ -127,4 +127,4 @@ Set `COUNTRY_CODE` in `.env` for your country's phone prefix. Phone validation e
 - Distances are straight-line between town centres, not road distance.
 
 ## License
-MIT, see [LICENSE](LICENSE). Replace `SUJAN NAIK` in the license before publishing.
+Copyright (c) 2026 Sujan Naik.
